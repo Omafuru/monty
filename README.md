@@ -102,4 +102,4 @@ Exits with status `EXIT_FAILURE`
 ## Authors & Credits
 - [Onome Mafuru](https://@github.com/Omafuru)
 
-> Thank you for reading through our README documentation.
+> Thank you for reading through my README documentation.
